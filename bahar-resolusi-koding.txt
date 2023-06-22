@@ -1,0 +1,5 @@
+resolusi koding bahar
+- learn javascript
+- learn php
+- learn mysql
+- learn laravel
