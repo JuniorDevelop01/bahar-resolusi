@@ -1,5 +1,7 @@
 resolusi koding bahar
 - learn javascript
+  *opp
 - learn php
+  *oop
 - learn mysql
 - learn laravel
